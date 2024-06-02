@@ -1,6 +1,5 @@
-<p align="center">
-  <img width="960" height="540" src="https://github.com/HunterH1218/HunterH1218/assets/168315159/ae61ef1e-452d-4a70-9537-59fa906eb2cb">
-</p>
+![image](https://github.com/HunterH1218/HunterH1218/assets/168315159/58c7fe5e-e1aa-41a3-8fa2-7e230b1b14c7)
+
 
 
 
