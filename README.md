@@ -4,5 +4,4 @@
 
 
 # Hi! I'm HunterH1218!
-I like **Python** and **Swift** coding, but I'm still learning Swift UI.
-I also have an interest in **AI**, and like fine tuning AI models in **Python**.
+I like coding in **Python**, where I create **AI** projects. I create high-quality Python projects, including fine-tuned AI mdoels.
