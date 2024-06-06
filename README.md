@@ -4,4 +4,4 @@
 
 
 # Hi! I'm HunterH1218!
-I like coding in **Python**, where I create **AI** projects. I create high-quality Python projects, including fine-tuned AI mdoels.
+I like coding in **Python**, where I create **AI** projects. I create high-quality Python projects, including fine-tuned AI models.
